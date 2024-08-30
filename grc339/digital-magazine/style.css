@@ -370,6 +370,18 @@ textarea {
     color: #17301C;
 	}
 
+    .comments textarea {
+        background: #FFFFFF;
+        border: 1px solid #17301C;
+        padding: 0.4em;
+        font-family: "franklin-gothic-atf", sans-serif;
+        font-weight: 400;
+        color: #17301C;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    
+
 div.subscription{
     grid-column: 1/3;
 }
